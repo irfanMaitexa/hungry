@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760295982883",
+    "project_id": "hungry-dc10f",
+    "storage_bucket": "hungry-dc10f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760295982883:android:b8e166529ca81b7c83ee96",
+        "android_client_info": {
+          "package_name": "com.example.hungry"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ga8rsJxYHD6hsU5P9UQ0wVkU_oqjLMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
